@@ -1,1 +1,2 @@
 # covid_webmap
+A interactive choropleth map reporting the data of washington state covid-19 cumulative cases per 10k people according to counties by using the COVID-19 related dataset: wa-covid-data-102521.geojson. 
